@@ -1,8 +1,6 @@
-#ifndef
 #define HAS_SINGLE 1
 #define HAS_DOUBLE 2
 #define HAS_ESCAPE 4
-#endif
 
 typedef struct {
     TokType type;
